@@ -1,2 +1,2 @@
-# latihan-branch
-latihan branch pada git
+# latihan membuat branch baru
+latihan branch baru pada git
